@@ -40,10 +40,6 @@ The top of ending locations in New York city
 [link to dashboard]https://public.tableau.com/authoring/Challenge_16702989384290/UserTripsbyGenderbyWeekday/Story%202#2
 [link to dashboard]https://public.tableau.com/authoring/Challenge_16702989384290/UserTripsbyGenderbyWeekday/Story%203#2
 
-<img width="1057" alt="Tirps by Gender per Weekday" src="https://user-images.githubusercontent.com/111814578/205820018-11357f65-139b-4ff7-b692-047cd2ac8bbf.png">
-
-
-
    
 ## Summary
 
